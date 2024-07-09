@@ -117,6 +117,7 @@ void man(char *name) {
 }
 
 void DisplayHelp() {
+    printf("create : To Create a New File\n");
     printf("ls : To List out the Files\n");
     printf("clear : To Clear the console\n");
     printf("open : To Open a File\n");
